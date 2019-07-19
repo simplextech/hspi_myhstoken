@@ -1,1 +1,1 @@
-# hspi_myhstoken
+# hspi_myhstoken-docs
