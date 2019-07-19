@@ -1,5 +1,5 @@
-MyHSToken
-=========
+MyHSToken Plugin
+================
 
 MyHSToken is a HomeSeer plugin to make the process of requesting/generating
 a secure token for MyHS access a lot easier.  Use this plugin to generate a 
