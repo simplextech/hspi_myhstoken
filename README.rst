@@ -17,7 +17,8 @@ Installation
 Install HomeSeer Plugin: MyHSToken by running:
 
     Plug-Ins -> Manage -> Additional Interfaces
-    MyHSToken is listed under "Utilities"
+    
+    - MyHSToken is listed under "Utilities"
 
 Support
 -------
